@@ -139,6 +139,13 @@ const skills = {
           },
         },
         {
+          skillName: "Ruby",
+          fontAwesomeClassname: "simple-icons:ruby",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
           skillName: "NPM",
           fontAwesomeClassname: "simple-icons:npm",
           style: {
