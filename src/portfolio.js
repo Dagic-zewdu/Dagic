@@ -91,8 +91,8 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express ",
+        "⚡ Developing mobile applications using  React Native",
+        "⚡ Creating application backend in Node, Express and Ruby on Rails ",
       ],
       softwareSkills: [
         {
@@ -142,7 +142,14 @@ const skills = {
           skillName: "Ruby",
           fontAwesomeClassname: "simple-icons:ruby",
           style: {
-            color: "#339933",
+            color: "red",
+          },
+        },
+        {
+          skillName: "Ruby Rails",
+          fontAwesomeClassname: "simple-icons:rails",
+          style: {
+            color: "red",
           },
         },
         {
