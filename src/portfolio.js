@@ -26,8 +26,8 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://docs.google.com/document/d/1F8mpy0h8qenRKJd3fbSTCvmcEV2gPjCuh3fo-vEcnzM/edit?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/Dagic-zewdu/Dagic",
+  githubProfile: "https://github.com/Dagic-zewdu/Dagic",
 };
 
 const socialMediaLinks = [
