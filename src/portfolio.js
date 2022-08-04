@@ -21,11 +21,11 @@ const seo = {
 const greeting = {
   title: "Dagmawi zewdu",
   logo_name: "Dagic zewdu",
-  nickname: "layman_brother",
+  nickname: "Dagmawi zewdu",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
+    "https://docs.google.com/document/d/1F8mpy0h8qenRKJd3fbSTCvmcEV2gPjCuh3fo-vEcnzM/edit?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/ashutosh1919",
 };
@@ -92,7 +92,7 @@ const skills = {
       skills: [
         "⚡ Building responsive website front end using React-Redux",
         "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Creating application backend in Node, Express ",
       ],
       softwareSkills: [
         {
