@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Dagmawi zewdu",
   logo_name: "Dagic zewdu",
-  nickname: "Dagmawi zewdu",
+  nickname: "Dagic",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
@@ -167,8 +167,8 @@ const skills = {
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "Nest.js",
+          fontAwesomeClassname: "simple-icons:nest",
           style: {
             color: "#02569B",
           },
@@ -191,8 +191,8 @@ const skills = {
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "Heroku",
+          fontAwesomeClassname: "simple-icons:heroku",
           style: {
             color: "#0089D6",
           },
@@ -219,8 +219,8 @@ const skills = {
           },
         },
         {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
+          skillName: "Netlify",
+          fontAwesomeClassname: "simple-icons:netlify",
           style: {
             color: "#1488C6",
           },
