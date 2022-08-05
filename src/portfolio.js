@@ -298,12 +298,12 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "HTML AND Css 3",
+      subtitle: "- Microverse",
+      logo_path: "html.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
+        "https://www.credential.net/1d79966a-1aab-4e1e-9c11-59cff2cbf6ae#gs.7sr83x",
+      alt_name: "Microverse",
       color_code: "#8C151599",
     },
     {
