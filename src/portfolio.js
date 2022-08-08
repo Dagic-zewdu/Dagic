@@ -307,21 +307,21 @@ const certifications = {
       color_code: "#8C151599",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: "Javascript",
+      subtitle: "- Microverse",
+      logo_path: "javascript.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+        "https://www.credential.net/2c714e23-82c0-44c1-8a76-007295a37b4f#gs.8m82ty",
       alt_name: "deeplearning.ai",
       color_code: "#00000099",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
+      title: "React Redux",
+      subtitle: "- Microverse",
+      logo_path: "Redux.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-      alt_name: "Google",
+        "https://www.credential.net/ac0da1ee-035d-4721-8c40-ebafaf3e7e2c#gs.8mbpzj",
+      alt_name: "React Redux",
       color_code: "#0C9D5899",
     },
     {
