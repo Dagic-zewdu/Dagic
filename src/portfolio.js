@@ -359,25 +359,25 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as ML and DL Developer and Software Architect. I have also worked with some well established companies mostly as Full stack Developer.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Associate AI Engineer",
-          company: "Legato Health Technology",
-          company_url: "https://legatohealthtech.com/",
+          title: "Full stack developer",
+          company: "X-cog",
+          company_url: "",
           logo_path: "legato_logo.png",
-          duration: "June 2020 - PRESENT",
-          location: "Hyderabad, Telangana",
+          duration: "Feb 2021 - Mar 2022",
+          location: "Ethiopia, Addis Ababa",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Ensured compatibility with major browsers on mobile and desktop platforms by coordinating core server product development in Soket.io, Express.js, and Nest.js service components.",
           color: "#0879bf",
         },
         {
-          title: "Android and ML Developer",
+          title: "Microverse",
           company: "Muffito Incorporation",
           company_url: "https://www.linkedin.com/company/muffito-inc/about/",
           logo_path: "muffito_logo.png",
