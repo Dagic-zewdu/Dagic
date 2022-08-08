@@ -325,20 +325,20 @@ const certifications = {
       color_code: "#0C9D5899",
     },
     {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
+      title: "Ruby",
+      subtitle: "- Microverse",
+      logo_path: "Ruby.png",
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+        "https://www.credential.net/464870d9-d702-4cf5-b4f0-d02c500d3bda#gs.8mcbl4",
       alt_name: "IBM",
       color_code: "#1F70C199",
     },
     {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
+      title: "Ruby on rails",
+      subtitle: "- Microverse",
+      logo_path: "ruby.png",
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+        "https://www.credential.net/df21f063-da40-4163-a3ac-217cb51ac2f0",
       alt_name: "Microsoft",
       color_code: "#D83B0199",
     },
