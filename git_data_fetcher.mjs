@@ -3,7 +3,7 @@ import fs from 'fs';
 
 const openSource = {
   githubConvertedToken: "Your Github Token Here",
-  githubUserName: "Your Github Username Here",
+  githubUserName: "Dagic-zewdu",
 };
 
 const query_pr = {
