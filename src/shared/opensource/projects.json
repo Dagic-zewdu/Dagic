@@ -191,7 +191,7 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=2",
       "name": "portifolio",
       "createdAt": "2020-06-25T16:26:54Z",
       "url": "https://github.com/Dagic-zewdu/Dagic",
@@ -213,20 +213,28 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Todo list",
-      "createdAt": "2020-06-25T16:26:54Z",
-      "url": "https://github.com/Dagic-zewdu/Todo-list",
-      "description": "Sample Design of a todo List.",
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=3",
+      "name": "Gc to Ethiopian date converter",
+      "createdAt": "2019-04-18T17:25:51Z",
+      "url": "https://www.npmjs.com/package/gc-to-ethiopian-calendar",
+      "description": "t is package that Converts Gregorian calendar to ethiopian. And also Ethiopian calendar to Gregorian calendar. Ethiopian calendar is unique for having 13 months, 12 months each with 13 days and 1 more month with 5 or 6 days. It is also 7/8 years behind the European/Gregorian calendar.",
       "isFork": false,
       "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "TypeScript",
+          "iconifyClass": "logos:typescript-icon"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Yarn",
+          "iconifyClass": "logos:yarn"
+        },
+        {
+          "name": "Npm",
+          "iconifyClass": "logos:npm-icon"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
         }
       ]
     },
