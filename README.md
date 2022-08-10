@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Title
+# Portifolio
 
-> Project description paragraph with 30 words. 
+> My personal portifolio. 
 
-![screenshot]()
+![screenshot](public/icons/desc.png)
 
 Additional description about the project and its features.
 
