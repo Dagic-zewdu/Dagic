@@ -24,23 +24,27 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "truvisory",
+      "name": "Allowance system",
       "createdAt": "2020-06-03T11:53:55Z",
-      "url": "https://github.com/ashutosh1919/truvisory",
-      "description": "This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:",
+      "url": "https://github.com/Dagic-zewdu/csa_server",
+      "description": "This allowance calculator developed helps customers for easy allowance calculations,letter and terms of referecence (tor) managment. It also have an easy integration to do complicated deductions with improved reporting and and stastical method.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        },
+        {
+          "name": "Mongoose",
+          "iconifyClass": "logos:mongodb-icon"
         }
       ]
     },
