@@ -248,10 +248,40 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "portifolio",
+      "name": "WeBook",
       "createdAt": "2020-06-25T16:26:54Z",
-      "url": "https://github.com/Dagic-zewdu/Dagic",
-      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+      "url": "https://github.com/Dagic-zewdu/webook",
+      "description": "communication in an organization will make better work performance, effective time management, can reduce cost and can save a lot of paperwork. communication in a task can have an impact on what will be executed in quality, quantity, and effectiveness.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        },
+        {
+          "name": "Mongoose",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos:typescript-icon"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=44",
+      "name": "Recipe",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/mirouhml/rails-recipe",
+      "description": "The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them.",
       "isFork": false,
       "languages": [
         {
@@ -259,61 +289,21 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
         },
         {
-          "name": "React",
-          "iconifyClass": "logos-react"
+          "name": "Ruby",
+          "iconifyClass": "logos:ruby"
+        },
+        {
+          "name": "Ruby on Rails",
+          "iconifyClass": "mdi:language-ruby-on-rails"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "portifolio",
-      "createdAt": "2020-06-25T16:26:54Z",
-      "url": "https://github.com/Dagic-zewdu/Dagic",
-      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "React",
-          "iconifyClass": "logos-react"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "portifolio",
-      "createdAt": "2020-06-25T16:26:54Z",
-      "url": "https://github.com/Dagic-zewdu/Dagic",
-      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "React",
-          "iconifyClass": "logos-react"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=6",
       "name": "Todo list",
       "createdAt": "2020-06-25T16:26:54Z",
       "url": "https://github.com/Dagic-zewdu/Todo-list",

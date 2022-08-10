@@ -27,7 +27,7 @@ const greeting = {
   resumeLink:
     "https://docs.google.com/document/d/1F8mpy0h8qenRKJd3fbSTCvmcEV2gPjCuh3fo-vEcnzM/edit?usp=sharing",
   portfolio_repository: "https://github.com/Dagic-zewdu/Dagic",
-  githubProfile: "https://github.com/Dagic-zewdu/Dagic",
+  githubProfile: "https://github.com/Dagic-zewdu?tab=repositories",
 };
 
 const socialMediaLinks = [
