@@ -6,6 +6,13 @@
       "createdAt": "2020-03-06T16:26:54Z",
       "description": "Blog written for to better structure redux",
       "url": "https://medium.com/@dagi.zewdu.dz/a-better-way-of-structuring-redux-in-react-d456d8be23b6"
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=1",
+      "name": "Communication organizer",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "description": "Publication for communication organizer in an organization",
+      "url": "https://docs.google.com/document/d/1zsnUDute45dzq2OiHeqFg0znZodLfFVU/edit?usp=sharing&ouid=100946272316874885279&rtpof=true&sd=true"
     }
   ]
 }
