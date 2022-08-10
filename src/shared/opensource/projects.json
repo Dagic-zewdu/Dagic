@@ -17,7 +17,7 @@
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "JavaScript",
+          "name": "React",
           "iconifyClass": "logos-react"
         }
       ]
@@ -63,24 +63,40 @@
         {
           "name": "Tailwind",
           "iconifyClass": "teenyicons:tailwind-solid"
+        },
+        {
+          "name": "Fake Json-server",
+          "iconifyClass": "bi:filetype-json"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Stock-Prediction-using-LSTM",
+      "name": "Gallery",
       "createdAt": "2018-11-03T05:00:56Z",
-      "url": "https://github.com/ashutosh1919/Stock-Prediction-using-LSTM",
-      "description": "This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.",
+      "url": "https://www.gallery.gov.et/",
+      "description": "This is government site shows the nature and awesome images in ethiopia. It have albums that used to categorize the images.It also have event and live to show the country. You can also filter out the images and search albums",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "React",
+          "iconifyClass": "logos-react"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "Styled",
+          "iconifyClass": "vscode-icons:file-type-styled"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "akar-icons:redux-fill"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        },
+        {
+          "name": "Mongoose",
+          "iconifyClass": "logos:mongodb-icon"
         }
       ]
     },
