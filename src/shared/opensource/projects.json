@@ -108,8 +108,8 @@
       "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
       "name": "Bcycom",
       "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/dsc-iiitdmk/Pick-Parser",
-      "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
+      "url": "https://github.com/Dagic-zewdu/final-capstone-frontend",
+      "description": "Bcycom is motorcyle site. You can reserve any motorcyle",
       "isFork": false,
       "languages": [
         {
@@ -119,20 +119,48 @@
         {
           "name": "Bootstrap",
           "iconifyClass": "logos:bootstrap"
+        },
+        {
+          "name": "Google sign-in",
+          "iconifyClass": "akar-icons:google-fill"
+        },
+        {
+          "name": "Ruby",
+          "iconifyClass": "logos:ruby"
+        },
+        {
+          "name": "Ruby on Rails",
+          "iconifyClass": "mdi:language-ruby-on-rails"
+        },
+        {
+          "name": "Jwt",
+          "iconifyClass": "logos:jwt"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Survival_3D_Game",
+      "name": "Random string generator",
       "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/ashutosh1919/Survival_3D_Game",
-      "description": "Survival Game using Unity3D",
+      "url": "https://www.npmjs.com/package/randomized-string",
+      "description": "Npm package that generates random-string",
       "isFork": false,
       "languages": [
         {
-          "name": "C#",
-          "iconifyClass": "logos-c-sharp"
+          "name": "TypeScript",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "Yarn",
+          "iconifyClass": "logos:yarn"
+        },
+        {
+          "name": "Npm",
+          "iconifyClass": "logos:npm-icon"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
         }
       ]
     }
