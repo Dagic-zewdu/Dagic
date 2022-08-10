@@ -97,20 +97,28 @@
         {
           "name": "Mongoose",
           "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "Google sign-in",
+          "iconifyClass": "akar-icons:google-fill"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Pick-Parser",
+      "name": "Bcycom",
       "createdAt": "2019-08-13T13:13:00Z",
       "url": "https://github.com/dsc-iiitdmk/Pick-Parser",
       "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
         }
       ]
     },
