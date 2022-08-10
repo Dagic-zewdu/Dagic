@@ -192,23 +192,31 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=2",
-      "name": "portifolio",
+      "name": "Maleda video-streaming site",
       "createdAt": "2020-06-25T16:26:54Z",
-      "url": "https://github.com/Dagic-zewdu/Dagic",
-      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+      "url": "https://maleda.herokuapp.com/",
+      "description": "Videos streaming website and used to read news. You can watch movies based on genre. Also have clip and spritual catagory.",
       "isFork": false,
       "languages": [
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
           "name": "React",
           "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "akar-icons:redux-fill"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        },
+        {
+          "name": "Mongoose",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
         }
       ]
     },
