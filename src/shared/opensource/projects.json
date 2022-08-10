@@ -163,6 +163,156 @@
           "iconifyClass": "simple-icons:nodedotjs"
         }
       ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=1",
+      "name": "covid-19 tracker",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/covid-19",
+      "description": "This is Covid-19 data that shows for each country.You can search your country and know its statistics .",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "akar-icons:redux-fill"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "portifolio",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/Dagic",
+      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Todo list",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/Todo-list",
+      "description": "Sample Design of a todo List.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "portifolio",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/Dagic",
+      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "portifolio",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/Dagic",
+      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "portifolio",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/Dagic",
+      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Todo list",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/Todo-list",
+      "description": "Sample Design of a todo List.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
     }
   ]
 }
