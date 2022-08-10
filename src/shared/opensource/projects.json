@@ -1,0 +1,324 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "portifolio",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/Dagic",
+      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "Allowance system",
+      "createdAt": "2020-06-03T11:53:55Z",
+      "url": "https://github.com/Dagic-zewdu/csa_server",
+      "description": "This allowance calculator developed helps customers for easy allowance calculations,letter and terms of referecence (tor) managment. It also have an easy integration to do complicated deductions with improved reporting and and stastical method.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        },
+        {
+          "name": "Mongoose",
+          "iconifyClass": "logos:mongodb-icon"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "Blogit",
+      "createdAt": "2020-06-19T14:24:55Z",
+      "url": "https://github.com/Dagic-zewdu/blog-app",
+      "description": "My blog site ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Vue",
+          "iconifyClass": "logos:vue"
+        },
+        {
+          "name": "Tailwind",
+          "iconifyClass": "teenyicons:tailwind-solid"
+        },
+        {
+          "name": "Fake Json-server",
+          "iconifyClass": "bi:filetype-json"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
+      "name": "Gallery",
+      "createdAt": "2018-11-03T05:00:56Z",
+      "url": "https://www.gallery.gov.et/",
+      "description": "This is government site shows the nature and awesome images in ethiopia. It have albums that used to categorize the images.It also have event and live to show the country. You can also filter out the images and search albums",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Styled",
+          "iconifyClass": "vscode-icons:file-type-styled"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "akar-icons:redux-fill"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        },
+        {
+          "name": "Mongoose",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "Google sign-in",
+          "iconifyClass": "akar-icons:google-fill"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
+      "name": "Bcycom",
+      "createdAt": "2019-08-13T13:13:00Z",
+      "url": "https://github.com/Dagic-zewdu/final-capstone-frontend",
+      "description": "Bcycom is motorcyle site. You can reserve any motorcyle",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
+        },
+        {
+          "name": "Google sign-in",
+          "iconifyClass": "akar-icons:google-fill"
+        },
+        {
+          "name": "Ruby",
+          "iconifyClass": "logos:ruby"
+        },
+        {
+          "name": "Ruby on Rails",
+          "iconifyClass": "mdi:language-ruby-on-rails"
+        },
+        {
+          "name": "Jwt",
+          "iconifyClass": "logos:jwt"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
+      "name": "Random string generator",
+      "createdAt": "2019-04-18T17:25:51Z",
+      "url": "https://www.npmjs.com/package/randomized-string",
+      "description": "Npm package that generates random-string",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "Yarn",
+          "iconifyClass": "logos:yarn"
+        },
+        {
+          "name": "Npm",
+          "iconifyClass": "logos:npm-icon"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=1",
+      "name": "covid-19 tracker",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/covid-19",
+      "description": "This is Covid-19 data that shows for each country.You can search your country and know its statistics .",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "akar-icons:redux-fill"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=2",
+      "name": "Maleda video-streaming site",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://maleda.herokuapp.com/",
+      "description": "Videos streaming website and used to read news. You can watch movies based on genre. Also have clip and spritual catagory.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "akar-icons:redux-fill"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        },
+        {
+          "name": "Mongoose",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=3",
+      "name": "Gc to Ethiopian date converter",
+      "createdAt": "2019-04-18T17:25:51Z",
+      "url": "https://www.npmjs.com/package/gc-to-ethiopian-calendar",
+      "description": "t is package that Converts Gregorian calendar to ethiopian. And also Ethiopian calendar to Gregorian calendar. Ethiopian calendar is unique for having 13 months, 12 months each with 13 days and 1 more month with 5 or 6 days. It is also 7/8 years behind the European/Gregorian calendar.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "Yarn",
+          "iconifyClass": "logos:yarn"
+        },
+        {
+          "name": "Npm",
+          "iconifyClass": "logos:npm-icon"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "WeBook",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/webook",
+      "description": "communication in an organization will make better work performance, effective time management, can reduce cost and can save a lot of paperwork. communication in a task can have an impact on what will be executed in quality, quantity, and effectiveness.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "simple-icons:nodedotjs"
+        },
+        {
+          "name": "Mongoose",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos:typescript-icon"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=44",
+      "name": "Recipe",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/mirouhml/rails-recipe",
+      "description": "The Recipe app keeps track of all your recipes, ingredients, and inventory. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app should allow you to make them public so anyone can access them.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Bootstrap",
+          "iconifyClass": "logos:bootstrap"
+        },
+        {
+          "name": "Ruby",
+          "iconifyClass": "logos:ruby"
+        },
+        {
+          "name": "Ruby on Rails",
+          "iconifyClass": "mdi:language-ruby-on-rails"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=6",
+      "name": "Todo list",
+      "createdAt": "2020-06-25T16:26:54Z",
+      "url": "https://github.com/Dagic-zewdu/Todo-list",
+      "description": "Sample Design of a todo List.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
