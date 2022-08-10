@@ -50,15 +50,19 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "ml-data-bot",
+      "name": "Blogit",
       "createdAt": "2020-06-19T14:24:55Z",
-      "url": "https://github.com/ashutosh1919/ml-data-bot",
-      "description": "Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models",
+      "url": "https://github.com/Dagic-zewdu/blog-app",
+      "description": "My blog site ",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Vue",
+          "iconifyClass": "logos:vue"
+        },
+        {
+          "name": "Tailwind",
+          "iconifyClass": "teenyicons:tailwind-solid"
         }
       ]
     },
