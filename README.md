@@ -18,7 +18,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://dagic-zewdu.herokuapp.com/#/)
+[Live Demo Link](https://dagic-zewdu.onrender.com)
 
 ## Built With
 
