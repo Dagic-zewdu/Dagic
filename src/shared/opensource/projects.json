@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "portifolio",
+      "name": "portfolio",
       "createdAt": "2020-06-25T16:26:54Z",
       "url": "https://github.com/Dagic-zewdu/Dagic",
       "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
@@ -19,6 +19,36 @@
         {
           "name": "React",
           "iconifyClass": "logos-react"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Docs Wallet",
+      "createdAt": "2022-10-25T16:26:54Z",
+      "url": "https://github.com/RamadanMohamd/documents-notifications",
+      "description": "Cross-platform application for both android and ios ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React-Native",
+          "iconifyClass": "logos-react-native"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos-firebase"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "akar-icons:redux-fill"
         }
       ]
     },
