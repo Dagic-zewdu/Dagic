@@ -366,14 +366,36 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Frontend Developer",
+          company: "Frontend Developers  Full-time",
+          company_url: "",
+          logo_path: "Frontend-developers.jpeg",
+          duration: "Jun 2022 - Present",
+          location: "Cairo, Egypt",
+          description: `✓ Worked with front-end libraries like Javascript, CSS, Tailwind CSS, Bootstrap, React, TypeScript, Next.js and Vue.js and designing tool Figma. Mostly i was doing
+          Ensuring quality of work by following the design provided, Connected API service and firebase integration, Worked on state management tools like Redux and toolkit and I was asistant for a senior front - end developer.`,
+          color: "#0879bf",
+        },
+        {
           title: "Full stack developer",
           company: "X-cog",
           company_url: "",
           logo_path: "x-cog.jpeg",
-          duration: "Feb 2021 - Mar 2022",
+          duration: "Feb 2020 - Mar 2022",
           location: "Ethiopia, Addis Ababa",
           description:
             "Ensured compatibility with major browsers on mobile and desktop platforms by coordinating core server product development in Soket.io, Express.js, and Nest.js service components.",
+          color: "#0879bf",
+        },
+        {
+          title: "Full stack developer",
+          company: "Self Employed · Self-employed",
+          company_url: "",
+          logo_path: "self-employed.jpeg",
+          duration: "Jan 2017 - Jun 2019 · 2 yrs 6 mos",
+          location: "Ethiopia, Addis Ababa",
+          description: `✓ Build & manage multiple product codebases using technologies like React, Ruby on Rails, PHP, TypeScript & more. Developed +10 web app projects.Designed +3 Database architecture for websites.
+Built and developed a node package module that gets 190 downloads per week.`,
           color: "#0879bf",
         },
       ],
