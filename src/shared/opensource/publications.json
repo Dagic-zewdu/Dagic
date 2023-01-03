@@ -17,7 +17,7 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=2",
       "name": "How to Build a Multi-Tenant App with Next.js Middleware",
-      "createdAt": "2020-03-06T16:26:54Z",
+      "createdAt": "2023-02-06T16:26:54Z",
       "description": "Multitenancy is the pattern of serving multiple clients from a single codebase.Each client is called a tenant and is able to customize part of the application, i.e: the URL, the branding, some rules, etc…",
       "url": "https://medium.com/@dagi.zewdu.dz/how-to-build-a-multi-tenant-app-with-next-js-middleware-ad5662ff2d28"
     }
